@@ -1,2 +1,5 @@
 q: What happens when you initialize a repository? Why do you need to do it?
 a: begins to allow metadata to be tracked
+
+q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+a: the staging area is where the files go before committing. The working directory cannot be directly committed, so having the staging area allows you  to selectively commit.
