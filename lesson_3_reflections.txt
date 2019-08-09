@@ -9,3 +9,9 @@ a: forks are clones, but on GitHub and inherently linking back to the original; 
 
 q: What is the benefit of having a copy of the last known state of the remote stored locally?
 a: offline editing
+
+q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+a: Google Drive spreadsheet to track updates; will not immediately allow for revisions
+
+q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+a: always keep a working version, while still being able to experiment
